@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to _Bitcoin Wallet_, a standalone Bitcoin payment app for your Android device!
 
 This project contains several sub-projects:
@@ -19,3 +20,7 @@ This project contains several sub-projects:
 You can build all sub-projects at once using Gradle:
 
 `gradle clean build`
+=======
+# bitcoin-wallet
+bitcoin wallet
+>>>>>>> 985b0dfbd47022f0f5b7c75fe7135a0b9d59f5f1
